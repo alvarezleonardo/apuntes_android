@@ -1,0 +1,10 @@
+el findViewById busca la referencia en la clase R del elemento definido en el xml y luego lo casteamos 
+para poder definirlo de un tipo y asi pasarlo a objeto para poder utilizar todos sus propiedades, metodos, etc.
+
+en el xml siempre hay que definir un id unico e irrepetible.
+
+el metodo definido en onclick debe existir en la clase definida en el xml que definen los elementos.
+
+
+Referencia de clases
+https://developer.android.com/reference/android/app/package-summary.html

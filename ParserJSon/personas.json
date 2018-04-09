@@ -1,0 +1,50 @@
+{
+
+"personas":[
+
+
+
+{
+
+  "nombre":"Andres",
+
+  "apellido":"Furlan",
+
+  "edad":"26",
+
+  "tweet":"Holaaa"
+
+},
+
+{
+
+  "nombre":"Santiago",
+
+  "apellido":"Gil",
+
+  "edad":"29",
+
+  "tweet":"Preguntenle la edad de verdad"
+
+},
+
+
+
+{
+
+  "nombre":"Felipe",
+
+  "apellido":"Catania",
+
+  "edad":"18",
+
+  "tweet":"Chauu"
+
+}
+
+]
+
+}
+
+
+

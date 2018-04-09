@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_c45b6e9bb9637fdabcb86111dfc32777532a26e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4e99f6b8d6a7aada388a0a5cdccf53817d1b68a2">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_957f4f28e6c6f4859c733ad6ed496e5cae5ec040\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_7a32100c90026827ab32b398fefc47cf90cd168a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_a5e7194effccb2b0bce726b6220bb90383c668df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\leona\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_57f47773f25d4318c29cf32a183a9b82f2103a27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="327f68d58bb39fb8b585150596b313541f8fdb87">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-24.1.1_13c7b6216293619c0d7dac406bf99ce4248794e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_6d0565202a67cc80405d29ba327904a04c3da56a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_3797b66198f54c669f6d666712266899d118d469\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\support-v13\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca74722504f90166103d01edcdfdb93192eb1cba">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_afd44e432f5bb53015899ffa93a6dfd70c7f2887\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84a23a3631a78981551c84ec5f663658a0d91e24">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c02734083d3f986a2ee32a15af831026a9066ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="E:\DigitalHouse\Android\Android\Share Nativo Android\BasicTransition\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.1.1_e7e6ad6301a9bbdb22d0b3259933676b1c6fda0a\classes.dex" />
+    </item>
+
+</items>

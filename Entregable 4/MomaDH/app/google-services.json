@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "455168899164",
+    "firebase_url": "https://momadh-58d56.firebaseio.com",
+    "project_id": "momadh-58d56",
+    "storage_bucket": "momadh-58d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455168899164:android:4c65dbe90047a04f",
+        "android_client_info": {
+          "package_name": "com.example.leonardo.momadh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455168899164-jp236i1v6g6c3s23870ko5ou9ua739dd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.leonardo.momadh",
+            "certificate_hash": "BF3055FE431D73F5167F72C2A496C4257A461BE7"
+          }
+        },
+        {
+          "client_id": "455168899164-j3iek1v189esik59gphub6in8ccsha04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmtfegp0uEIcWHBmivFYLd2UhzG2cA9fw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455168899164-j3iek1v189esik59gphub6in8ccsha04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

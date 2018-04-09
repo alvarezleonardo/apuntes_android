@@ -1,0 +1,78 @@
+{
+    "artists": [{
+        "name": "Andy",
+        "paints": [{
+            "image": "artistpaints/andymilanapo.png",
+            "name": "Mila a la napo"
+        }]
+    }, {
+        "name": "Michelangelo",
+        "paints": [{
+            "image": "artistpaints/michelangelo_perpetualmotion.png",
+            "name": "Perpetual Motion"
+        }, {
+            "image": "artistpaints/michelangelo_sixteenthchapel.png",
+            "name": "sixteenth chapel"
+        }, {
+            "image": "artistpaints/michelangelo_eveandadam.png",
+            "name": "Eve and Adam"
+        }, {
+            "image": "artistpaints/michelangelo_lapiedad.png",
+            "name": "La Piedad"
+        }]
+    }, {
+        "name": "keith Haring",
+        "paints": [{
+            "image": "artistpaints/keithharing_ignorancefear.png",
+            "name": "Perpetual Motion"
+        }, {
+            "image": "artistpaints/keithharing_enplaza.png",
+            "name": "Plaza"
+        }, {
+            "image": "artistpaints/keithharing_runningheart.png",
+            "name": "Por eso corre corre corre corazon"
+        }, {
+            "image": "artistpaints/keithharing_laberint.png",
+            "name": "Laberinto"
+        }, {
+            "image": "artistpaints/keithharing_dreaming.png",
+            "name": "Yo lo sonie"
+        }, {
+            "image": "artistpaints/keithharing_party.png",
+            "name": "Party Hard"
+        }, {
+            "image": "artistpaints/keithharing_collage.png",
+            "name": "Bricollage"
+        }]
+    }, {
+        "name": "Miro",
+        "paints": [{
+            "image": "artistpaints//miro_corazonycosas.png",
+            "name": "corazon y cosas"
+        }, {
+            "image": "artistpaints/miro_sauron.png",
+            "name": "Sauron"
+        }, {
+            "image": "artistpaints/miro_frutilla.png",
+            "name": "Frutilla"
+        }]
+    }, {
+        "name": "Polac (El Polaco)",
+        "paints": [{
+            "image": "artistpaints/polac_empanadacapresse.png",
+            "name": "Perpetual Motion"
+        }, {
+            "image": "artistpaints/polac_pastasconcrema.png",
+            "name": "Pastas con crema"
+        }, {
+            "image": "artistpaints/polac_miinfancia.png",
+            "name": "My childhood"
+        }, {
+            "image": "artistpaints/polac_manchandomas.png",
+            "name": "Skip Ultra"
+        }, {
+            "image": "artistpaints/polac_manchando.png",
+            "name": "La Mancha de Rolando"
+        }]
+    }]
+}

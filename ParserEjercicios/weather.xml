@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<weatherInformation>
+    <coordinates>
+        <longitude>139</longitude>
+        <latitude>35</latitude>
+    </coordinates>
+
+    <location>
+        <country>Argentina</country>
+        <city>Buenos Aires</city>
+        <sunrise>1369769524</sunrise>
+        <sunset>1369821049</sunset>
+    </location>
+
+    <weather>
+        <temperature>14</temperature>
+        <humidity>89</humidity>
+        <pressure>1012</pressure>
+        <temperature_min>7</temperature_min>
+        <temperature_max>20</temperature_max>
+    </weather>
+    <weather>
+        <temperature>14</temperature>
+        <humidity>87</humidity>
+        <pressure>1012</pressure>
+        <temperature_min>7</temperature_min>
+        <temperature_max>21</temperature_max>
+    </weather>
+    <weather>
+        <temperature>13</temperature>
+        <humidity>89</humidity>
+        <pressure>1013</pressure>
+        <temperature_min>8</temperature_min>
+        <temperature_max>20</temperature_max>
+    </weather>
+
+    <wind>
+        <speed>7.31</speed>
+        <deg>187.002</deg>
+    </wind>
+
+    <rain>
+        <probability>0</probability>
+    </rain>
+
+    <clouds>
+        <all>92</all>
+    </clouds>
+</weatherInformation>
+	

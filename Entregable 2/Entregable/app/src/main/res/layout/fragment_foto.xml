@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/foto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/mani"
+        android:scaleType="fitXY"
+        />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/relativeFoto"
+        android:background="@color/negro_Transparente"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:textColor="@color/blanco"
+            android:textSize="40dp"
+            android:text="Tegui"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:id="@+id/relativeFotoLocalidad"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/relativeFotoProvincia"
+            android:fontFamily="casual"
+            android:textColor="@color/blanco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:textSize="20dp"
+            android:text="Buenos aires"
+            android:layout_alignParentBottom="true"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginBottom="15dp"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

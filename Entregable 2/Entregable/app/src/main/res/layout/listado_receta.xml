@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blanco">
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/RecyclerViewReceta"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp"
+        android:divider="#00000000"
+        android:dividerHeight="10.0sp"
+       >
+
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

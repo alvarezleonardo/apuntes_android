@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_formulario"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#faa9a9"
+    tools:context="com.example.leonardo.formulariocompleto.FormularioActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Completar Formulario"
+        android:id="@+id/txtCompletar"
+        android:textSize="24dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtNombre"
+        android:text="NOMBRE: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtCompletar"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtApellido"
+        android:text="APELLIDO: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtNombre"
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtEdad"
+        android:text="EDAD: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtApellido"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtCarrera"
+        android:text="CARRERA: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtEdad"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtEmail"
+        android:text="EMAIL: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtCarrera"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:id="@+id/txtDeseo"
+        android:text="Deseo recibir mail informándome sobre los siguientes eventos: "
+        android:textSize="20dp"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtEmail"
+        />
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chkTorneos"
+        android:layout_toLeftOf="@id/chkMeetups"
+        android:text="Torneos"
+        android:textSize="17dp"
+
+        android:layout_below="@id/txtDeseo"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chkMeetups"
+        android:layout_centerHorizontal="true"
+        android:text="Meetups"
+        android:textSize="17dp"
+        android:layout_below="@id/txtDeseo"/>
+
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/chkAsados"
+        android:text="Asados"
+        android:textSize="17dp"
+        android:layout_toRightOf="@id/chkMeetups"
+        android:layout_below="@id/txtDeseo"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ENVIAR"
+        android:layout_below="@id/chkMeetups"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/activity_vertical_margin"/>
+
+
+</RelativeLayout>
+
+

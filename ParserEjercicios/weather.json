@@ -1,0 +1,45 @@
+{
+  "coordinates": {
+    "longitude": 139,
+    "latitude": 35
+  },
+  "location": {
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "sunrise": 1369769524,
+    "sunset": 1369821049
+  },
+  "weather": [
+    {
+      "temperature": 14,
+      "humidity": 89,
+      "pressure": 1012,
+      "temperature_min": 7,
+      "temperature_max": 20
+    },
+    {
+      "temperature": 14,
+      "humidity": 87,
+      "pressure": 1012,
+      "temperature_min": 7,
+      "temperature_max": 21
+    },
+    {
+      "temperature": 13,
+      "humidity": 89,
+      "pressure": 1013,
+      "temperature_min": 8,
+      "temperature_max": 20
+    }
+  ],
+  "wind": {
+    "speed": 7.31,
+    "deg": 187.002
+  },
+  "rain": {
+    "probability": 0
+  },
+  "clouds": {
+    "all": 92
+  }
+}

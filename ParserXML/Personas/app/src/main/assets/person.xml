@@ -1,0 +1,12 @@
+<person>
+    <name>Juan</name>
+    <lastName>Perez</lastName>
+    <age>23</age>
+    <lastTweet>Yendo al estreno de Batman vs Superman</lastTweet>
+</person>
+<person>
+    <name>Leo</name>
+    <lastName>Alvarez</lastName>
+    <age>35</age>
+    <lastTweet>Hola Mundo!</lastTweet>
+</person>

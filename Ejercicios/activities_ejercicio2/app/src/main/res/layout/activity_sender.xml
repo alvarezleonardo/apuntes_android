@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.leonardo.activities_ejercicio2.SenderActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/txtNombre"
+        android:text="Nombre:" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apellido:"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtNombre"
+        android:id="@+id/txtApellido"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEdad"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:text="Edad:"
+        android:layout_below="@id/txtApellido"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtNombre"
+        android:layout_alignBaseline="@id/txtNombre"
+        android:id="@+id/edtNombre"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtApellido"
+        android:layout_alignBaseline="@id/txtApellido"
+        android:id="@+id/edtApellido"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtEdad"
+        android:layout_alignBaseline="@id/txtEdad"
+        android:id="@+id/edtEdad"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txtEdad"
+        android:layout_centerHorizontal="true"
+        android:text="MANDAR"
+        android:onClick="EnviarDatos"/>
+
+</RelativeLayout>

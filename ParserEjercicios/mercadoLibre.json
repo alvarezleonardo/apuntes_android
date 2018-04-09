@@ -1,0 +1,144 @@
+{
+  "site_id": "MLA",
+  "paging": {
+    "total": 62130,
+    "offset": 0,
+    "limit": 5
+  },
+  "results": [
+    {
+      "id": "MLA623329816",
+      "site_id": "MLA",
+      "title": "Laptop Empresarial Dell Latitude Usb Wifi Dvd Win 7 Pro!!!",
+      "subtitle": null,
+      "seller": {
+        "id": 215684737,
+        "power_seller_status": null,
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 205,
+      "currency_id": "ARS",
+      "available_quantity": 1,
+      "sold_quantity": 0,
+      "buying_mode": "auction",
+      "listing_type_id": "gold_special",
+      "stop_time": "2016-06-15T01:15:00.000Z",
+      "condition": "used",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-623329816-laptop-empresarial-dell-latitude-usb-wifi-dvd-win-7-pro-_JM",
+      "thumbnail": "http://mla-s2-p.mlstatic.com/363421-MLA20756376443_062016-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": null,
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQk1BVDMwMDJa",
+        "city_name": "Mataderos"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "not_specified"
+      },
+      "seller_address": {
+        "id": 185139661,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQk1BVDMwMDJa",
+          "name": "Mataderos"
+        },
+        "latitude": -34.6466843,
+        "longitude": -58.4842292
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA54311",
+      "official_store_id": null
+    },
+    {
+      "id": "MLA619463325",
+      "site_id": "MLA",
+      "title": "Adaptador Usb A Sata Para Discos Rigidos 2,5 O Ssd Fact A B",
+      "subtitle": null,
+      "seller": {
+        "id": 27067113,
+        "power_seller_status": "platinum",
+        "car_dealer": false,
+        "real_estate_agency": false,
+        "tags": [
+        ]
+      },
+      "price": 150,
+      "currency_id": "ARS",
+      "available_quantity": 856,
+      "sold_quantity": 1990,
+      "buying_mode": "buy_it_now",
+      "listing_type_id": "gold_special",
+      "stop_time": "2036-05-03T04:45:06.000Z",
+      "condition": "new",
+      "permalink": "http://articulo.mercadolibre.com.ar/MLA-619463325-adaptador-usb-a-sata-para-discos-rigidos-25-o-ssd-fact-a-b-_JM",
+      "thumbnail": "http://mla-s1-p.mlstatic.com/12928-MLA20068424236_032014-I.jpg",
+      "accepts_mercadopago": true,
+      "installments": {
+        "quantity": 6,
+        "amount": 33,
+        "currency_id": "ARS"
+      },
+      "address": {
+        "state_id": "AR-C",
+        "state_name": "Capital Federal",
+        "city_id": "TUxBQkNBQjM4MDda",
+        "city_name": "Caballito"
+      },
+      "shipping": {
+        "free_shipping": false,
+        "mode": "me2"
+      },
+      "seller_address": {
+        "id": 128589992,
+        "comment": "",
+        "address_line": "",
+        "zip_code": "",
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "state": {
+          "id": "AR-C",
+          "name": "Capital Federal"
+        },
+        "city": {
+          "id": "TUxBQkNBQjM4MDda",
+          "name": "Caballito"
+        },
+        "latitude": -34.6213671,
+        "longitude": -58.4429752
+      },
+      "attributes": [
+      ],
+      "original_price": null,
+      "category_id": "MLA38594",
+      "official_store_id": null
+    }
+  ],
+  "secondary_results": [
+  ],
+  "related_results": [
+  ],
+  "sort": {
+    "id": "relevance",
+    "name": "More relevant"
+  }
+}

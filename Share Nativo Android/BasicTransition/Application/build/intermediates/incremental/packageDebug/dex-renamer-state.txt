@@ -1,0 +1,7 @@
+#Sun Dec 04 21:11:40 GMT-03:00 2016
+base.0=E\:\\DigitalHouse\\Android\\Android\\Share Nativo Android\\BasicTransition\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c02734083d3f986a2ee32a15af831026a9066ee9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\DigitalHouse\\Android\\Android\\Share Nativo Android\\BasicTransition\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_957f4f28e6c6f4859c733ad6ed496e5cae5ec040\\classes.dex
+base.1=E\:\\DigitalHouse\\Android\\Android\\Share Nativo Android\\BasicTransition\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_957f4f28e6c6f4859c733ad6ed496e5cae5ec040
+file.0=E\:\\DigitalHouse\\Android\\Android\\Share Nativo Android\\BasicTransition\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c02734083d3f986a2ee32a15af831026a9066ee9\\classes.dex

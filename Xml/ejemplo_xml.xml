@@ -1,0 +1,18 @@
+<mensaje>
+	<body>
+		Hola como estas!
+	</body>
+	<asunto>
+		Hola
+	</asunto>
+	<destinatario>
+		<destinatario email="feli@digitalhouse.com" />	
+		<destinatario enail="andres@digitalhouse.com />
+	</destinatario>
+	<remitente>
+			leonardo@maxisistemas.com.are
+	</remitente>
+	<fecha>
+		20160913
+	</fecha>
+</mensaje>

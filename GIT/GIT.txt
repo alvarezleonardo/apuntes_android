@@ -1,0 +1,11 @@
+fork codigo publico y/o privado y lo clono a mi usuario dependiendo del permiso del otro repo.
+
+git clone
+git status
+git add .
+git commit -m "[mensaje]"
+git push origin master     pushea al origen lo que hay en master
+
+
+Orden es 
+Commit pull puss, CPP

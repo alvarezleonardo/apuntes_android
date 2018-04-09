@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.leonardo.activities_ejercicio2.ReceptorActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/txtDatoNombre"
+        android:text="Nombre Ingresado:" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Apellido Ingresado:"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:layout_below="@id/txtDatoNombre"
+        android:id="@+id/txtDatoApellido"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtDatoEdad"
+        android:layout_marginBottom="@dimen/activity_vertical_margin"
+        android:text="Edad Ingresada:"
+        android:layout_below="@id/txtDatoApellido"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtDatoNombre"
+        android:layout_alignBaseline="@id/txtDatoNombre"
+        android:id="@+id/edtDatoNombre"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtDatoApellido"
+        android:layout_alignBaseline="@id/txtDatoApellido"
+        android:id="@+id/edtDatoApellido"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/txtDatoEdad"
+        android:layout_alignBaseline="@id/txtDatoEdad"
+        android:id="@+id/edtDatoEdad"/>
+
+ </RelativeLayout>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mercadoLibre>
+   <site_id>MLA</site_id>
+   <paging>
+      <total>62130</total>
+      <offset>0</offset>
+      <limit>5</limit>
+   </paging>
+   <results>
+      <id>MLA623329816</id>
+      <site_id>MLA</site_id>
+      <title>Laptop Empresarial Dell Latitude Usb Wifi Dvd Win 7 Pro!!!</title>
+      <subtitle />
+      <seller>
+         <id>215684737</id>
+         <power_seller_status />
+         <car_dealer>false</car_dealer>
+         <real_estate_agency>false</real_estate_agency>
+      </seller>
+      <price>205</price>
+      <currency_id>ARS</currency_id>
+      <available_quantity>1</available_quantity>
+      <sold_quantity>0</sold_quantity>
+      <buying_mode>auction</buying_mode>
+      <listing_type_id>gold_special</listing_type_id>
+      <stop_time>2016-06-15T01:15:00.000Z</stop_time>
+      <condition>used</condition>
+      <permalink>http://articulo.mercadolibre.com.ar/MLA-623329816-laptop-empresarial-dell-latitude-usb-wifi-dvd-win-7-pro-_JM</permalink>
+      <thumbnail>http://mla-s2-p.mlstatic.com/363421-MLA20756376443_062016-I.jpg</thumbnail>
+      <accepts_mercadopago>true</accepts_mercadopago>
+      <installments />
+      <address>
+         <state_id>AR-C</state_id>
+         <state_name>Capital Federal</state_name>
+         <city_id>TUxBQk1BVDMwMDJa</city_id>
+         <city_name>Mataderos</city_name>
+      </address>
+      <shipping>
+         <free_shipping>false</free_shipping>
+         <mode>not_specified</mode>
+      </shipping>
+      <seller_address>
+         <id>185139661</id>
+         <comment />
+         <address_line />
+         <zip_code />
+         <country>
+            <id>AR</id>
+            <name>Argentina</name>
+         </country>
+         <state>
+            <id>AR-C</id>
+            <name>Capital Federal</name>
+         </state>
+         <city>
+            <id>TUxBQk1BVDMwMDJa</id>
+            <name>Mataderos</name>
+         </city>
+         <latitude>-34.6466843</latitude>
+         <longitude>-58.4842292</longitude>
+      </seller_address>
+      <original_price />
+      <category_id>MLA54311</category_id>
+      <official_store_id />
+   </results>
+   <results>
+      <id>MLA619463325</id>
+      <site_id>MLA</site_id>
+      <title>Adaptador Usb A Sata Para Discos Rigidos 2,5 O Ssd Fact A B</title>
+      <subtitle />
+      <seller>
+         <id>27067113</id>
+         <power_seller_status>platinum</power_seller_status>
+         <car_dealer>false</car_dealer>
+         <real_estate_agency>false</real_estate_agency>
+      </seller>
+      <price>150</price>
+      <currency_id>ARS</currency_id>
+      <available_quantity>856</available_quantity>
+      <sold_quantity>1990</sold_quantity>
+      <buying_mode>buy_it_now</buying_mode>
+      <listing_type_id>gold_special</listing_type_id>
+      <stop_time>2036-05-03T04:45:06.000Z</stop_time>
+      <condition>new</condition>
+      <permalink>http://articulo.mercadolibre.com.ar/MLA-619463325-adaptador-usb-a-sata-para-discos-rigidos-25-o-ssd-fact-a-b-_JM</permalink>
+      <thumbnail>http://mla-s1-p.mlstatic.com/12928-MLA20068424236_032014-I.jpg</thumbnail>
+      <accepts_mercadopago>true</accepts_mercadopago>
+      <installments>
+         <quantity>6</quantity>
+         <amount>33</amount>
+         <currency_id>ARS</currency_id>
+      </installments>
+      <address>
+         <state_id>AR-C</state_id>
+         <state_name>Capital Federal</state_name>
+         <city_id>TUxBQkNBQjM4MDda</city_id>
+         <city_name>Caballito</city_name>
+      </address>
+      <shipping>
+         <free_shipping>false</free_shipping>
+         <mode>me2</mode>
+      </shipping>
+      <seller_address>
+         <id>128589992</id>
+         <comment />
+         <address_line />
+         <zip_code />
+         <country>
+            <id>AR</id>
+            <name>Argentina</name>
+         </country>
+         <state>
+            <id>AR-C</id>
+            <name>Capital Federal</name>
+         </state>
+         <city>
+            <id>TUxBQkNBQjM4MDda</id>
+            <name>Caballito</name>
+         </city>
+         <latitude>-34.6213671</latitude>
+         <longitude>-58.4429752</longitude>
+      </seller_address>
+      <original_price />
+      <category_id>MLA38594</category_id>
+      <official_store_id />
+   </results>
+   <sort>
+      <id>relevance</id>
+      <name>More relevant</name>
+   </sort>
+</mercadoLibre>
